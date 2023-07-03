@@ -1,1 +1,2 @@
-# Wumpus-World-Code
+# Wumpus-World-Code  
+This program simulates a simple game known as Wumpus World. A game board is randomly generated with 16 cells in a 4 by 4 grid, represented by a three dimensional list. The player, gold, wumpus, and pits are all randomly generated on the game board. The goal of the game is to move the player to the gold without falling into a pit or being caught by the wumpus. Multiple 2D lists are utilized as a knowledge base for the program in an attempt to make safe moves before having to take a potentially dangerous move on the game board. 
